@@ -3,3 +3,5 @@ ls -ltr
 sudo sh install-docker.sh
 docker --version
 sudo su - root
+sudo su -root
+sudo su root
